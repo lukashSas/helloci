@@ -14,7 +14,6 @@ public class AppTest {
 	@Test
 	public void testShouldBePassed() {
 		assertTrue(true);
-		assertTrue(true);
 	}
 
 	@Test
